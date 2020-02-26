@@ -4,7 +4,7 @@ Latihan Membuat Website menggunakan NodeJS, ExpressJS dan Handlebars(sebagai tem
 
 **Bahasa & Library yang digunakan :** <br>
 - <a href="https://nodejs.org/en/">NodeJS</a>
-- <a href="ttps://expressjs.com/">Express JS</a>
+- <a href="https://expressjs.com/">Express JS</a>
 - <a href="https://www.npmjs.com/package/express-handlebars">Express Handlebars</a>
 
 **Cara Instalasi :**
